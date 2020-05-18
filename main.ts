@@ -2,7 +2,7 @@
  * Oyunun kuralları
  * 
  **
- **
+ **Sonradan eklenen yorumlar
  **
  
  * Bir oyuncu toplam sıfır ile başlar.
