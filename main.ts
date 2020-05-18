@@ -1,6 +1,10 @@
 /**
  * Oyunun kuralları
  * 
+ **
+ **
+ **
+ 
  * Bir oyuncu toplam sıfır ile başlar.
  * 
  * Her turda 1 ile 10 arasında rastgele bir sayı üretilir ve oyuncunun toplamına eklenir.
