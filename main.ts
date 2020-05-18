@@ -1,4 +1,5 @@
 /**
+ * 19 Mayıs 2020 yorum güncellemesi
  * Toplamları 24'ün altında veya 33'ün üzerindeyse Game OVer
  *
  * Toplamları 24 ila 33 arasındaysa 10 x (toplam - 23) puan.
