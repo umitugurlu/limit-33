@@ -2,7 +2,7 @@
  * Oyunun kuralları
  * 
  **
- **Sonradan eklenen yorumlar
+ **Sonradan eklenen yorumlar. 19 Mayıs 2020
  **
  
  * Bir oyuncu toplam sıfır ile başlar.
